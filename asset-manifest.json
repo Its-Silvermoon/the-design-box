@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/the-design-box/static/css/main.2dbcd15b.css",
+    "main.js": "/the-design-box/static/js/main.f71182e0.js",
+    "index.html": "/the-design-box/index.html",
+    "main.2dbcd15b.css.map": "/the-design-box/static/css/main.2dbcd15b.css.map",
+    "main.f71182e0.js.map": "/the-design-box/static/js/main.f71182e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dbcd15b.css",
+    "static/js/main.f71182e0.js"
+  ]
+}
